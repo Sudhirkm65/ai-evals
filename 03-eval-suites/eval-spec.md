@@ -4,11 +4,11 @@ Paste the reply from the Module 3 Lab Guide (Activity 2) over this file once you
 
 | Part | Spec |
 |---|---|
-| Target risk | |
-| Evaluator | |
-| Threshold | |
-| Business stakes | |
-| Owner | |
+| Target risk | high|
+| Evaluator | User |
+| Threshold |Medium |
+| Business stakes |High |
+| Owner | User|
 
 ## Messages
 
